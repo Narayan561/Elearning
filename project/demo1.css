@@ -1,0 +1,3768 @@
+body 
+{
+color:#000;
+}
+a {
+color:#0000ff;
+text-decoration:none;
+}
+#lp-pom-root {
+display:block;
+background:rgba(0,0,0,1);
+border-style:none;
+margin:auto;
+padding-left:auto;
+padding-right:auto;
+padding-top:0px;
+border-radius:0px;
+min-width:980px;
+height:3210px;
+}
+#lp-pom-block-1997 {
+display:none;
+background:rgba(8,24,38,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:72px;
+position:relative;
+}
+#lp-pom-image-1998 {
+display:none;
+background:rgba(255,255,255,0);
+left:0px;
+top:24px;
+z-index:26;
+position:absolute;
+}
+#lp-pom-block-2123 {
+display:none;
+background:rgba(8,24,38,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:72px;
+position:relative;
+}
+#lp-pom-box-2160 {
+display:none;
+background:rgba(8,24,38,1);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:0px;
+z-index:42;
+width:900px;
+height:72px;
+position:absolute;
+}
+#lp-pom-image-2124 {
+display:none;
+background:rgba(255,255,255,0);
+left:0px;
+top:24px;
+z-index:43;
+position:absolute;
+}
+#lp-pom-button-2125 {
+display:none;
+border-style:none;
+border-radius:4px;
+left:754px;
+top:11px;
+z-index:44;
+width:146px;
+height:50px;
+position:absolute;
+background:rgba(240,168,90,1);
+box-shadow:none;
+text-shadow:none;
+color:#081826;
+border-width:undefinedpx;
+border-color:#undefined;
+font-size:16px;
+line-height:19px;
+font-weight:400;
+font-family:Barlow;
+font-style:normal;
+text-align:center;
+background-repeat:no-repeat;
+}
+#lp-pom-block-9 {
+display:block;
+background:rgba(8,24,38,1);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/bded1968-customer-banner-images-jen-copy_11hc0lx00000000000001o.jpg);
+background-repeat:no-repeat;
+background-position:center bottom;
+background-size:cover;
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:453px;
+position:relative;
+}
+#lp-pom-text-33 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:106px;
+z-index:1;
+width:476px;
+height:116px;
+position:absolute;
+}
+#lp-pom-image-492 {
+display:none;
+background:rgba(255,255,255,0);
+left:40px;
+top:43px;
+z-index:6;
+position:absolute;
+}
+#lp-pom-text-1712 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:241px;
+z-index:8;
+width:353px;
+height:78px;
+position:absolute;
+}
+#lp-pom-box-1882 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:4px;
+top:289px;
+z-index:22;
+width:467px;
+height:82px;
+position:absolute;
+}
+#lp-pom-text-1886 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:121px;
+z-index:23;
+width:444px;
+height:14px;
+position:absolute;
+}
+#lp-pom-image-2208 {
+display:block;
+background:rgba(255,255,255,0);
+left:0px;
+top:46px;
+z-index:49;
+position:absolute;
+}
+#lp-pom-block-1732 {
+display:block;
+background:rgba(242,243,244,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:207px;
+position:relative;
+}
+#lp-pom-box-1753 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:15px;
+top:553.5px;
+z-index:9;
+width:224px;
+height:48px;
+position:absolute;
+}
+#lp-pom-text-1757 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:29px;
+top:-22px;
+z-index:10;
+width:166px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-1758 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-17px;
+top:22px;
+z-index:11;
+width:297px;
+height:26px;
+position:absolute;
+}
+#lp-pom-box-1763 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:338px;
+top:554px;
+z-index:19;
+width:224px;
+height:47px;
+position:absolute;
+}
+#lp-pom-text-1764 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:32px;
+top:-14px;
+z-index:20;
+width:184px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-1765 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-26px;
+top:21px;
+z-index:21;
+width:284px;
+height:26px;
+position:absolute;
+}
+#lp-pom-box-1767 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:661px;
+top:554px;
+z-index:16;
+width:224px;
+height:47px;
+position:absolute;
+}
+#lp-pom-text-1768 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:13px;
+top:-22px;
+z-index:17;
+width:243px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-1769 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:21px;
+z-index:18;
+width:268px;
+height:26px;
+position:absolute;
+}
+#lp-pom-block-2001 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/1b56d199-bg-high-res_11hc0cn00000000000001o.jpg);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:363px;
+position:relative;
+}
+#lp-pom-text-2181 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:544px;
+top:690px;
+z-index:46;
+width:471px;
+height:43px;
+position:absolute;
+}
+#lp-pom-box-2183 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:458px;
+top:848px;
+z-index:47;
+width:455px;
+height:184px;
+position:absolute;
+}
+#lp-pom-text-2184 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:587px;
+top:754px;
+z-index:50;
+width:355px;
+height:210px;
+position:absolute;
+}
+#lp-pom-box-2185 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:538px;
+top:759px;
+z-index:51;
+width:33px;
+height:223px;
+position:absolute;
+}
+#lp-pom-box-2186 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:14px;
+top:0px;
+z-index:52;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2187 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:14px;
+top:35px;
+z-index:53;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2188 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:14px;
+top:70px;
+z-index:54;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2189 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:14px;
+top:105px;
+z-index:55;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2190 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:14px;
+top:140px;
+z-index:56;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2191 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:14px;
+top:175px;
+z-index:57;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-block-1780 {
+display:block;
+background:rgba(8,24,38,1);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/182e3303-guitar-stock-2_11k30kt1hc0kt01d000028.png);
+background-repeat:no-repeat;
+background-position:center top;
+background-size:cover;
+border-style:none none none none;
+border-width:undefinedpx;
+border-color:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:11px;
+border-radius:0px;
+width:100%;
+height:749px;
+position:relative;
+}
+#lp-pom-text-1781 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:1075px;
+z-index:12;
+width:467px;
+height:129px;
+position:absolute;
+}
+#lp-pom-text-2162 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:1228px;
+z-index:45;
+width:488px;
+height:642px;
+position:absolute;
+}
+#lp-pom-box-2241 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:1426px;
+z-index:58;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2242 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:0px;
+top:37px;
+z-index:59;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2243 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:0px;
+top:39px;
+z-index:60;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2244 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:0px;
+top:39px;
+z-index:61;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2245 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:1580px;
+z-index:62;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2246 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:1618px;
+z-index:63;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2247 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:1654px;
+z-index:64;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2248 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:1692px;
+z-index:65;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2249 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:1731px;
+z-index:70;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-block-1041 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none none solid none;
+border-width:1px;
+border-color:#E5E7E9;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:330px;
+position:relative;
+}
+#lp-pom-text-1043 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:40px;
+top:2113px;
+z-index:7;
+width:429px;
+height:130px;
+position:absolute;
+}
+#lp-pom-box-2019 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/c47c9c5c-asset-21-4x_10eg0ba0eg0av000007028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:-51px;
+top:1756px;
+z-index:67;
+width:520px;
+height:391px;
+position:absolute;
+}
+#lp-pom-block-2003 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:253px;
+position:relative;
+}
+#lp-pom-box-1945 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:2114px;
+z-index:27;
+width:251px;
+height:195px;
+position:absolute;
+}
+#lp-pom-box-1946 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/989739b1-icon-professional_100000002s02s000000028.png);
+background-repeat:no-repeat;
+background-position:left top;
+border-style:none;
+border-radius:0px;
+left:76px;
+top:0px;
+z-index:28;
+width:100px;
+height:100px;
+position:absolute;
+}
+#lp-pom-text-1947 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-3px;
+top:130px;
+z-index:29;
+width:257px;
+height:50px;
+position:absolute;
+}
+#lp-pom-box-1948 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:325px;
+top:2114px;
+z-index:30;
+width:251px;
+height:195px;
+position:absolute;
+}
+#lp-pom-box-1949 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/989739b1-icon-professional_100000002s02s000000028.png);
+background-repeat:no-repeat;
+background-position:left top;
+border-style:none;
+border-radius:0px;
+left:75.5px;
+top:0px;
+z-index:31;
+width:100px;
+height:100px;
+position:absolute;
+}
+#lp-pom-text-1950 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-3px;
+top:130px;
+z-index:32;
+width:257px;
+height:50px;
+position:absolute;
+}
+#lp-pom-box-1951 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:649px;
+top:2114px;
+z-index:33;
+width:251px;
+height:195px;
+position:absolute;
+}
+#lp-pom-box-1952 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/989739b1-icon-professional_100000002s02s000000028.png);
+background-repeat:no-repeat;
+background-position:left top;
+border-style:none;
+border-radius:0px;
+left:75.5px;
+top:0px;
+z-index:34;
+width:100px;
+height:100px;
+position:absolute;
+}
+#lp-pom-text-1953 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-9px;
+top:130px;
+z-index:35;
+width:269px;
+height:50px;
+position:absolute;
+}
+#lp-pom-block-2002 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:709px;
+position:relative;
+}
+#lp-pom-box-2017 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:-216px;
+top:2123px;
+z-index:66;
+width:900px;
+height:313px;
+position:absolute;
+}
+#lp-pom-text-2018 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:713px;
+top:-288px;
+z-index:68;
+width:444px;
+height:84px;
+position:absolute;
+}
+#lp-pom-text-2021 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:713px;
+top:-194px;
+z-index:69;
+width:302px;
+height:88px;
+position:absolute;
+}
+#lp-pom-box-2216 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/b64e2386-99597b25-f7c6-40b8-bbd2-2608eee804aa-memberships-copy_100000009v06u000005028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:233px;
+top:342px;
+z-index:73;
+width:426px;
+height:295px;
+position:absolute;
+}
+#lp-pom-text-2217 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:258px;
+top:62px;
+z-index:71;
+width:435px;
+height:102px;
+position:absolute;
+}
+#lp-pom-text-2219 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:250px;
+top:189px;
+z-index:72;
+width:329px;
+height:88px;
+position:absolute;
+}
+#lp-pom-box-2030 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:2491px;
+z-index:36;
+width:900px;
+height:313px;
+position:absolute;
+}
+#lp-pom-text-2031 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:471px;
+top:27px;
+z-index:37;
+width:420px;
+height:126px;
+position:absolute;
+}
+#lp-pom-text-2240 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:471px;
+top:164px;
+z-index:38;
+width:384px;
+height:110px;
+position:absolute;
+}
+#lp-pom-box-2053 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/fbb65462-asset-17-4x_10d90890ch08900d000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:433px;
+top:2080px;
+z-index:74;
+width:449px;
+height:297px;
+position:absolute;
+}
+#lp-pom-box-2054 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/6ee2b100-asset-16-4x_108n05r08n05h000005028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:166px;
+top:186px;
+z-index:75;
+width:311px;
+height:197px;
+position:absolute;
+}
+#lp-pom-block-1820 {
+display:block;
+background:rgba(8,24,38,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:305px;
+position:relative;
+}
+#lp-pom-text-1821 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:158px;
+top:2994px;
+z-index:14;
+width:600px;
+height:48px;
+position:absolute;
+}
+#lp-pom-button-1823 {
+display:block;
+border-style:none;
+border-radius:4px;
+left:377px;
+top:3066px;
+z-index:13;
+width:146px;
+height:50px;
+position:absolute;
+background:rgba(240,168,90,1);
+box-shadow:none;
+text-shadow:none;
+color:#081826;
+border-width:undefinedpx;
+border-color:#undefined;
+font-size:16px;
+line-height:19px;
+font-weight:400;
+font-family:Barlow;
+font-style:normal;
+text-align:center;
+background-repeat:no-repeat;
+}
+#lp-pom-text-1824 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:125px;
+top:2893px;
+z-index:15;
+width:649px;
+height:86px;
+position:absolute;
+}
+#lp-pom-block-185 {
+display:block;
+background:rgba(12,33,49,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:82px;
+position:relative;
+}
+#lp-pom-image-188 {
+display:block;
+background:rgba(255,255,255,0);
+left:783px;
+top:3161px;
+z-index:2;
+position:absolute;
+}
+#lp-pom-image-189 {
+display:block;
+background:rgba(255,255,255,0);
+left:808px;
+top:3163.5px;
+z-index:3;
+position:absolute;
+}
+#lp-pom-image-190 {
+display:block;
+background:rgba(255,255,255,0);
+left:840px;
+top:3161px;
+z-index:4;
+position:absolute;
+}
+#lp-pom-image-191 {
+display:block;
+background:rgba(255,255,255,0);
+left:874px;
+top:3161px;
+z-index:5;
+position:absolute;
+}
+#lp-pom-box-2151 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:3153.5px;
+z-index:39;
+width:181px;
+height:31px;
+position:absolute;
+}
+#lp-pom-text-187 {
+display:block;
+background:rgba(0,16,35,0);
+border-style:none;
+border-radius:0px;
+left:2px;
+top:5px;
+z-index:41;
+width:312px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-192 {
+display:none;
+background:rgba(0,16,35,0);
+border-style:none;
+border-radius:0px;
+left:60px;
+top:66px;
+z-index:40;
+width:312px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-2200 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:134px;
+top:3156px;
+z-index:48;
+width:632px;
+height:26px;
+position:absolute;
+}
+#lp-pom-button-1885 {
+display:block;
+border-style:none;
+border-radius:4px;
+left:304px;
+top:0px;
+z-index:25;
+width:146px;
+height:50px;
+position:absolute;
+background:rgba(240,168,90,1);
+box-shadow:none;
+text-shadow:none;
+color:#000000;
+border-width:undefinedpx;
+border-color:#undefined;
+font-size:16px;
+line-height:19px;
+font-weight:300;
+font-family:Barlow;
+font-style:normal;
+text-align:center;
+background-repeat:no-repeat;
+}
+#lp-pom-root .lp-positioned-content {
+top:0px;
+width:980px;
+margin-left:-490px;
+}
+#lp-pom-block-1997 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:72px;
+}
+#lp-pom-block-2123 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:72px;
+}
+#lp-pom-block-9 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:453px;
+}
+#lp-pom-block-1732 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:207px;
+}
+#lp-pom-block-2001 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:363px;
+}
+#lp-pom-block-1780 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:749px;
+}
+#lp-pom-block-1041 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:330px;
+}
+#lp-pom-block-2003 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:253px;
+}
+#lp-pom-block-2002 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:709px;
+}
+#lp-pom-block-1820 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:305px;
+}
+#lp-pom-block-185 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:980px;
+height:82px;
+}
+#lp-pom-image-188 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:9px;
+height:20px;
+}
+#lp-pom-image-188 .lp-pom-image-container img {
+width:9px;
+height:20px;
+}
+#lp-pom-image-189 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:16px;
+height:15px;
+}
+#lp-pom-image-189 .lp-pom-image-container img {
+width:16px;
+height:15px;
+}
+#lp-pom-image-190 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:19px;
+height:20px;
+}
+#lp-pom-image-190 .lp-pom-image-container img {
+width:19px;
+height:20px;
+}
+#lp-pom-image-191 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:26px;
+height:20px;
+}
+#lp-pom-image-191 .lp-pom-image-container img {
+width:26px;
+height:20px;
+}
+#lp-pom-image-492 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:151px;
+height:26px;
+}
+#lp-pom-image-492 .lp-pom-image-container img {
+width:151px;
+height:26px;
+}
+#lp-pom-button-1823:hover {
+background:rgba(205,138,42,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-1823:active {
+background:rgba(205,138,42,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-1823 .label {
+margin-top:-10px;
+}
+#container_email {
+position:absolute;
+top:0px;
+left:0px;
+width:285px;
+height:49px;
+}
+.lp-pom-form-field .ub-input-item.single.form_elem_email {
+position:absolute;
+top:0px;
+left:0px;
+width:285px;
+height:49px;
+}
+#campaign {
+position:absolute;
+top:0px;
+left:0px;
+width:0px;
+height:0px;
+}
+#lp-pom-button-1885:hover {
+background:rgba(228,144,68,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-1885:active {
+background:rgba(216,129,57,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-1885 .label {
+margin-top:-10px;
+}
+#lp-pom-image-1998 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:132px;
+height:24px;
+}
+#lp-pom-image-1998 .lp-pom-image-container img {
+width:132px;
+height:24px;
+}
+#lp-pom-image-2124 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:132px;
+height:24px;
+}
+#lp-pom-image-2124 .lp-pom-image-container img {
+width:132px;
+height:24px;
+}
+#lp-pom-button-2125:hover {
+background:rgba(205,138,42,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-2125:active {
+background:rgba(205,138,42,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-2125 .label {
+margin-top:0px;
+}
+#lp-pom-image-2208 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:186px;
+height:32px;
+}
+#lp-pom-image-2208 .lp-pom-image-container img {
+width:186px;
+height:32px;
+}
+#lp-pom-root-color-overlay {
+position:absolute;
+background:none;
+top:0;
+width:100%;
+height:3210px;
+min-height:100%;
+}
+#lp-pom-block-1997-color-overlay {
+position:absolute;
+background:none;
+height:72px;
+width:100%;;
+}
+#lp-pom-block-2123-color-overlay {
+position:absolute;
+background:none;
+height:72px;
+width:100%;;
+}
+#lp-pom-block-9-color-overlay {
+position:absolute;
+background:none;
+height:453px;
+width:100%;;
+}
+#lp-pom-block-1732-color-overlay {
+position:absolute;
+background:none;
+height:207px;
+width:100%;;
+}
+#lp-pom-block-2001-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:363px;
+width:100%;;
+}
+#lp-pom-block-1780-color-overlay {
+position:absolute;
+background:none;
+height:749px;
+width:100%;;
+}
+#lp-pom-block-1041-color-overlay {
+position:absolute;
+background:none;
+height:330px;
+width:100%;;
+}
+#lp-pom-block-2003-color-overlay {
+position:absolute;
+background:none;
+height:253px;
+width:100%;;
+}
+#lp-pom-block-2002-color-overlay {
+position:absolute;
+background:none;
+height:709px;
+width:100%;;
+}
+#lp-pom-block-1820-color-overlay {
+position:absolute;
+background:none;
+height:305px;
+width:100%;;
+}
+#lp-pom-block-185-color-overlay {
+position:absolute;
+background:none;
+height:82px;
+width:100%;;
+}
+#lp-pom-box-1753-color-overlay {
+position:absolute;
+background:none;
+height:48px;
+width:224px;
+}
+#lp-pom-box-1763-color-overlay {
+position:absolute;
+background:none;
+height:47px;
+width:224px;
+}
+#lp-pom-box-1767-color-overlay {
+position:absolute;
+background:none;
+height:47px;
+width:224px;
+}
+#lp-pom-box-1882-color-overlay {
+position:absolute;
+background:none;
+height:82px;
+width:467px;
+}
+#lp-pom-box-1945-color-overlay {
+position:absolute;
+background:none;
+height:195px;
+width:251px;
+}
+#lp-pom-box-1946-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:100px;
+width:100px;
+}
+#lp-pom-box-1948-color-overlay {
+position:absolute;
+background:none;
+height:195px;
+width:251px;
+}
+#lp-pom-box-1949-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:100px;
+width:100px;
+}
+#lp-pom-box-1951-color-overlay {
+position:absolute;
+background:none;
+height:195px;
+width:251px;
+}
+#lp-pom-box-1952-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:100px;
+width:100px;
+}
+#lp-pom-box-2017-color-overlay {
+position:absolute;
+background:none;
+height:313px;
+width:900px;
+}
+#lp-pom-box-2019-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:391px;
+width:520px;
+}
+#lp-pom-box-2030-color-overlay {
+position:absolute;
+background:none;
+height:313px;
+width:900px;
+}
+#lp-pom-box-2053-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:297px;
+width:449px;
+}
+#lp-pom-box-2054-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:197px;
+width:311px;
+}
+#lp-pom-box-2151-color-overlay {
+position:absolute;
+background:none;
+height:31px;
+width:181px;
+}
+#lp-pom-box-2160-color-overlay {
+position:absolute;
+background:none;
+height:72px;
+width:900px;
+}
+#lp-pom-box-2183-color-overlay {
+position:absolute;
+background:none;
+height:184px;
+width:455px;
+}
+#lp-pom-box-2185-color-overlay {
+position:absolute;
+background:none;
+height:223px;
+width:33px;
+}
+#lp-pom-box-2186-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2187-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2188-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2189-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2190-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2191-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2216-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:295px;
+width:426px;
+}
+#lp-pom-box-2241-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2242-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2243-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2244-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2245-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2246-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2247-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2248-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2249-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-form-1884 {
+display:block;
+left:0px;
+top:64px;
+z-index:24;
+width:285px;
+height:0px;
+position:absolute;
+}
+#lp-pom-form-1884 .fields {
+margin:-9px;
+}
+#lp-pom-form-1884 .lp-pom-form-field {
+position:absolute;
+}
+#lp-pom-form-1884 .option {
+position:absolute;
+}
+#lp-pom-form-1884 .optionsList {
+position:absolute;
+}
+#lp-pom-form-1884 .lp-pom-form-field .single {
+height:49px;
+font-size:15px;
+line-height:15px;
+padding-left:16px;
+padding-right:16px;
+flex:1;
+}
+#lp-pom-form-1884 .lp-pom-form-field select {
+height:48px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .form_elem_multi {
+padding-top:16px;
+padding-bottom:17px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .lp-form-label {
+font-family:Source Sans Pro;
+font-weight:400;
+font-size:14px;
+line-height:15px;
+color:#000000;
+display:block;
+margin-bottom:4px;
+width:auto;
+margin-right:0px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .lp-form-label .label-style {
+font-weight:bolder;
+font-style:inherit;
+}
+#lp-pom-form-1884 .lp-pom-form-field input[type=text], #lp-pom-form-1884 .lp-pom-form-field input[type=email], #lp-pom-form-1884 .lp-pom-form-field input[type=tel], #lp-pom-form-1884 .lp-pom-form-field textarea, #lp-pom-form-1884 .lp-pom-form-field select {
+border-style:none;
+}
+#lp-pom-form-1884 .lp-pom-form-field .opt-label {
+font-family:arial;
+font-weight:400;
+font-size:13px;
+color:#000;
+line-height:15px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .opt-label .label-style {
+font-weight:inherit;
+font-style:inherit;
+}
+#lp-pom-form-1884 .lp-pom-form-field .text {
+background-color:#ffffff;
+color:#000000;
+border-radius:4px;
+}
+@media (-webkit-min-device-pixel-ratio: 1.1), (min-resolution: 97dpi) {
+#lp-pom-block-9 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/bded1968-customer-banner-images-jen-copy_100000000000000000001o.jpg);
+}
+#lp-pom-block-2001 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/1b56d199-bg-high-res_100000000000000000001o.jpg);
+}
+#lp-pom-block-1780 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/182e3303-guitar-stock-2_134615m2yo15m02q000028.png);
+}
+#lp-pom-box-2019 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/c47c9c5c-asset-21-4x_10sw0mj0sw0lq00000e028.png);
+}
+#lp-pom-box-2053 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/fbb65462-asset-17-4x_10qi0gi0oy0gi00q000028.png);
+}
+#lp-pom-box-2054 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/6ee2b100-asset-16-4x_10ha0bj0ha0ay00000a028.png);
+}
+#lp-pom-box-2186 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2187 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2188 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2189 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2190 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2191 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2241 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2242 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2243 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2244 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2245 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2246 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2247 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2248 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2249 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+}
+@media (-webkit-min-device-pixel-ratio: 2.1), (min-resolution: 193dpi) {
+#lp-pom-block-1780 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/182e3303-guitar-stock-2_10000003o31fj03d000028.png);
+}
+#lp-pom-box-2019 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/c47c9c5c-asset-21-4x_117c0xt17c0wl00000l028.png);
+}
+#lp-pom-box-2053 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/fbb65462-asset-17-4x_113r0or11f0or013000028.png);
+}
+#lp-pom-box-2054 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/6ee2b100-asset-16-4x_10px0ha0px0gf00000f028.png);
+}
+#lp-pom-box-2186 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2187 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2188 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2189 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2190 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2191 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2241 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2242 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2243 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2244 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2245 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2246 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2247 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2248 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2249 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+}
+</style><style title="page-styles" type="text/css" data-page-type="main_mobile">
+@media only screen and (max-width: 600px) {
+#lp-pom-root {
+display:block;
+background:rgba(0,0,0,1);
+border-style:none;
+margin:auto;
+padding-left:auto;
+padding-right:auto;
+padding-top:0px;
+border-radius:0px;
+min-width:320px;
+height:4563px;
+}
+#lp-pom-block-1997 {
+display:none;
+background:rgba(8,24,38,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:67px;
+position:relative;
+}
+#lp-pom-image-1998 {
+display:none;
+background:rgba(255,255,255,0);
+left:85px;
+top:22px;
+z-index:26;
+position:absolute;
+}
+#lp-pom-block-2123 {
+display:none;
+background:rgba(8,24,38,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:54px;
+position:relative;
+}
+#lp-pom-box-2160 {
+display:none;
+background:rgba(8,24,38,1);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:0px;
+z-index:42;
+width:320px;
+height:53px;
+position:absolute;
+}
+#lp-pom-image-2124 {
+display:none;
+background:rgba(255,255,255,0);
+left:0px;
+top:17px;
+z-index:43;
+position:absolute;
+}
+#lp-pom-button-2125 {
+display:none;
+border-style:none;
+border-radius:4px;
+left:191px;
+top:7px;
+z-index:44;
+width:129px;
+height:39px;
+position:absolute;
+background:rgba(240,168,90,1);
+box-shadow:none;
+text-shadow:none;
+color:#081826;
+border-width:undefinedpx;
+border-color:#undefined;
+font-size:14px;
+line-height:17px;
+font-weight:400;
+font-family:Barlow;
+font-style:normal;
+text-align:center;
+background-repeat:no-repeat;
+}
+#lp-pom-block-9 {
+display:block;
+background:rgba(8,24,38,1);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/21c21d24-docjen-mobile2_10go0sm00000000000001o.jpg);
+background-repeat:no-repeat;
+background-position:center bottom;
+background-size:cover;
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:833px;
+position:relative;
+}
+#lp-pom-text-33 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:13px;
+top:64px;
+z-index:1;
+width:475px;
+height:116px;
+transform:scale(0.6153846153846154);
+transform-origin:0 0;
+-webkit-transform:scale(0.6153846153846154);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-image-492 {
+display:none;
+background:rgba(255,255,255,0);
+left:85px;
+top:1243px;
+z-index:6;
+position:absolute;
+}
+#lp-pom-text-1712 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:13px;
+top:160px;
+z-index:8;
+width:313px;
+height:78px;
+transform:scale(0.8);
+transform-origin:0 0;
+-webkit-transform:scale(0.8);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-1882 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:13px;
+top:185px;
+z-index:22;
+width:280px;
+height:183px;
+position:absolute;
+}
+#lp-pom-text-1886 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-2px;
+top:189px;
+z-index:23;
+width:260px;
+height:28px;
+position:absolute;
+}
+#lp-pom-image-2208 {
+display:block;
+background:rgba(255,255,255,0);
+left:94px;
+top:25px;
+z-index:49;
+position:absolute;
+}
+#lp-pom-block-1732 {
+display:block;
+background:rgba(242,243,244,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:328px;
+position:relative;
+}
+#lp-pom-box-1753 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:48px;
+top:875px;
+z-index:9;
+width:224px;
+height:55px;
+position:absolute;
+}
+#lp-pom-text-1757 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:11px;
+top:10px;
+z-index:10;
+width:289px;
+height:22px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-1758 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-0.5px;
+top:32px;
+z-index:11;
+width:250px;
+height:52px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-1763 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:48px;
+top:969px;
+z-index:19;
+width:224px;
+height:55px;
+position:absolute;
+}
+#lp-pom-text-1764 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:26px;
+top:20px;
+z-index:20;
+width:246px;
+height:22px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-1765 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-16px;
+top:42px;
+z-index:21;
+width:283px;
+height:26px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-1767 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:48px;
+top:1063px;
+z-index:16;
+width:224px;
+height:55px;
+position:absolute;
+}
+#lp-pom-text-1768 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:27.5px;
+top:10px;
+z-index:17;
+width:242px;
+height:22px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-1769 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-21px;
+top:32px;
+z-index:18;
+width:296px;
+height:26px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-block-2001 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:280px;
+position:relative;
+}
+#lp-pom-text-2181 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:17px;
+top:1191px;
+z-index:46;
+width:381px;
+height:43px;
+transform:scale(0.75);
+transform-origin:0 0;
+-webkit-transform:scale(0.75);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2183 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:1258px;
+z-index:47;
+width:318px;
+height:225px;
+position:absolute;
+}
+#lp-pom-text-2184 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:50px;
+top:1239px;
+z-index:50;
+width:293px;
+height:210px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2185 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:17px;
+top:1245px;
+z-index:51;
+width:23px;
+height:219px;
+position:absolute;
+}
+#lp-pom-box-2186 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:0px;
+z-index:52;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2187 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:64px;
+z-index:53;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2188 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:94px;
+z-index:54;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2189 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:123px;
+z-index:55;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2190 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:156px;
+z-index:56;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2191 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:34px;
+z-index:57;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-block-1780 {
+display:block;
+background:rgba(8,24,38,1);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/1e2b5bfc-guitar-stock-mobile_10jp10h0go10h01i000028.png);
+background-repeat:no-repeat;
+background-position:center bottom;
+background-size:cover;
+border-style:none none none none;
+border-width:undefinedpx;
+border-color:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:1313px;
+position:relative;
+}
+#lp-pom-text-1781 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:20px;
+top:1476px;
+z-index:12;
+width:385px;
+height:172px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-2162 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:24px;
+top:1604px;
+z-index:45;
+width:293px;
+height:730px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2241 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:24px;
+top:1999px;
+z-index:58;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2242 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:0px;
+top:32px;
+z-index:59;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2243 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:0px;
+top:37px;
+z-index:60;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2244 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:0px;
+top:33px;
+z-index:61;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2245 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:24px;
+top:1966px;
+z-index:62;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2246 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:24px;
+top:1931px;
+z-index:63;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2247 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:24px;
+top:1897px;
+z-index:64;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2248 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:24px;
+top:1864px;
+z-index:65;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-box-2249 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_100k00k000000000000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:24px;
+top:2136px;
+z-index:70;
+width:20px;
+height:20px;
+position:absolute;
+}
+#lp-pom-block-1041 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none none solid none;
+border-width:1px;
+border-color:#E5E7E9;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:425px;
+position:relative;
+}
+#lp-pom-text-1043 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:30px;
+top:3360px;
+z-index:7;
+width:303px;
+height:182px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2019 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/c47c9c5c-asset-21-4x_108w06y08w06q000003028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:5px;
+top:2968px;
+z-index:67;
+width:320px;
+height:242px;
+position:absolute;
+}
+#lp-pom-block-2003 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:623px;
+position:relative;
+}
+#lp-pom-box-1945 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:48px;
+top:3180px;
+z-index:27;
+width:224px;
+height:178px;
+position:absolute;
+}
+#lp-pom-box-1946 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/989739b1-icon-professional_100000002s02s000000028.png);
+background-repeat:no-repeat;
+background-position:left top;
+border-style:none;
+border-radius:0px;
+left:62px;
+top:0px;
+z-index:28;
+width:100px;
+height:100px;
+position:absolute;
+}
+#lp-pom-text-1947 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-13px;
+top:134px;
+z-index:29;
+width:250px;
+height:50px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-1948 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:48px;
+top:3402px;
+z-index:30;
+width:224px;
+height:178px;
+position:absolute;
+}
+#lp-pom-box-1949 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/989739b1-icon-professional_100000002s02s000000028.png);
+background-repeat:no-repeat;
+background-position:left top;
+border-style:none;
+border-radius:0px;
+left:62px;
+top:0px;
+z-index:31;
+width:100px;
+height:100px;
+position:absolute;
+}
+#lp-pom-text-1950 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-13px;
+top:134px;
+z-index:32;
+width:250px;
+height:50px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-1951 {
+display:none;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:48px;
+top:3604px;
+z-index:33;
+width:224px;
+height:175px;
+position:absolute;
+}
+#lp-pom-box-1952 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/989739b1-icon-professional_100000002s02s000000028.png);
+background-repeat:no-repeat;
+background-position:left top;
+border-style:none;
+border-radius:0px;
+left:62px;
+top:0px;
+z-index:34;
+width:100px;
+height:100px;
+position:absolute;
+}
+#lp-pom-text-1953 {
+display:none;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-21px;
+top:134px;
+z-index:35;
+width:267px;
+height:50px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-block-2002 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:894px;
+position:relative;
+}
+#lp-pom-box-2017 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:20px;
+top:3199px;
+z-index:66;
+width:280px;
+height:338px;
+position:absolute;
+}
+#lp-pom-text-2018 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:5px;
+top:-411px;
+z-index:68;
+width:376px;
+height:126px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-2021 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:5px;
+top:-313px;
+z-index:69;
+width:288px;
+height:88px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2216 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/b64e2386-99597b25-f7c6-40b8-bbd2-2608eee804aa-memberships-copy_108305v08304t00000i028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:-6px;
+top:686px;
+z-index:73;
+width:291px;
+height:173px;
+position:absolute;
+}
+#lp-pom-text-2217 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:6px;
+z-index:71;
+width:415px;
+height:102px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-2219 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:108px;
+z-index:72;
+width:293px;
+height:88px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2030 {
+display:block;
+background:rgba(255,255,255,1);
+border-style:none;
+border-radius:0px;
+left:20px;
+top:3617px;
+z-index:36;
+width:280px;
+height:315px;
+position:absolute;
+}
+#lp-pom-text-2031 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-5px;
+top:5px;
+z-index:37;
+width:412px;
+height:126px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-text-2240 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:-5px;
+top:118px;
+z-index:38;
+width:293px;
+height:132px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-box-2053 {
+display:block;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/fbb65462-asset-17-4x_10dn08i08o08i02h000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:4px;
+top:3348px;
+z-index:74;
+width:312px;
+height:306px;
+position:absolute;
+}
+#lp-pom-box-2054 {
+display:none;
+background:rgba(255,255,255,0);
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/6ee2b100-asset-16-4x_10ay07b07807b01v000028.png);
+background-repeat:no-repeat;
+background-position:center center;
+background-size:cover;
+border-style:none;
+border-radius:0px;
+left:10px;
+top:90px;
+z-index:75;
+width:260px;
+height:263px;
+position:absolute;
+}
+#lp-pom-block-1820 {
+display:block;
+background:rgba(8,24,38,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:354px;
+position:relative;
+}
+#lp-pom-text-1821 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:27px;
+top:4239px;
+z-index:14;
+width:295px;
+height:120px;
+transform:scale(0.9);
+transform-origin:0 0;
+-webkit-transform:scale(0.9);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-button-1823 {
+display:block;
+border-style:none;
+border-radius:4px;
+left:87px;
+top:4355px;
+z-index:13;
+width:146px;
+height:50px;
+position:absolute;
+background:rgba(240,168,90,1);
+box-shadow:none;
+text-shadow:none;
+color:#081826;
+border-width:undefinedpx;
+border-color:#undefined;
+font-size:16px;
+line-height:19px;
+font-weight:400;
+font-family:Barlow;
+font-style:normal;
+text-align:center;
+background-repeat:no-repeat;
+}
+#lp-pom-text-1824 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:13.5px;
+top:4125px;
+z-index:15;
+width:418px;
+height:129px;
+transform:scale(0.7);
+transform-origin:0 0;
+-webkit-transform:scale(0.7);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-block-185 {
+display:block;
+background:rgba(12,33,49,1);
+border-style:none;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0px;
+border-radius:0px;
+width:100%;
+height:135px;
+position:relative;
+}
+#lp-pom-image-188 {
+display:block;
+background:rgba(255,255,255,0);
+left:93px;
+top:4515.5px;
+z-index:2;
+position:absolute;
+}
+#lp-pom-image-189 {
+display:block;
+background:rgba(255,255,255,0);
+left:123px;
+top:4518px;
+z-index:3;
+position:absolute;
+}
+#lp-pom-image-190 {
+display:block;
+background:rgba(255,255,255,0);
+left:160px;
+top:4515.5px;
+z-index:4;
+position:absolute;
+}
+#lp-pom-image-191 {
+display:block;
+background:rgba(255,255,255,0);
+left:200px;
+top:4515.5px;
+z-index:5;
+position:absolute;
+}
+#lp-pom-box-2151 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:73px;
+top:4455px;
+z-index:39;
+width:173px;
+height:26px;
+position:absolute;
+}
+#lp-pom-text-187 {
+display:none;
+background:rgba(0,16,35,0);
+border-style:none;
+border-radius:0px;
+left:0px;
+top:41px;
+z-index:41;
+width:312px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-192 {
+display:block;
+background:rgba(0,16,35,0);
+border-style:none;
+border-radius:0px;
+left:13px;
+top:0px;
+z-index:40;
+width:148px;
+height:22px;
+position:absolute;
+}
+#lp-pom-text-2200 {
+display:block;
+background:rgba(255,255,255,0);
+border-style:none;
+border-radius:0px;
+left:37px;
+top:4481px;
+z-index:48;
+width:490px;
+height:52px;
+transform:scale(0.5);
+transform-origin:0 0;
+-webkit-transform:scale(0.5);
+-webkit-transform-origin:0 0;
+position:absolute;
+}
+#lp-pom-button-1885 {
+display:block;
+border-style:none;
+border-radius:4px;
+left:0px;
+top:61px;
+z-index:25;
+width:280px;
+height:49px;
+position:absolute;
+background:rgba(240,168,90,1);
+box-shadow:none;
+text-shadow:none;
+color:#000000;
+border-width:undefinedpx;
+border-color:#undefined;
+font-size:16px;
+line-height:19px;
+font-weight:300;
+font-family:Barlow;
+font-style:normal;
+text-align:center;
+background-repeat:no-repeat;
+}
+body {
+color:#000;
+}
+a {
+color:#0000ff;
+text-decoration:none;
+}
+#lp-pom-root .lp-positioned-content {
+top:0px;
+width:320px;
+margin-left:-160px;
+}
+#lp-pom-block-1997 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:67px;
+}
+#lp-pom-block-2123 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:54px;
+}
+#lp-pom-block-9 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:833px;
+}
+#lp-pom-block-1732 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:328px;
+}
+#lp-pom-block-2001 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:280px;
+}
+#lp-pom-block-1780 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:1313px;
+}
+#lp-pom-block-1041 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:425px;
+}
+#lp-pom-block-2003 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:623px;
+}
+#lp-pom-block-2002 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:894px;
+}
+#lp-pom-block-1820 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:354px;
+}
+#lp-pom-block-185 .lp-pom-block-content {
+margin-left:auto;
+margin-right:auto;
+width:320px;
+height:135px;
+}
+#lp-pom-image-188 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:9px;
+height:20px;
+}
+#lp-pom-image-188 .lp-pom-image-container img {
+width:9px;
+height:20px;
+}
+#lp-pom-image-189 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:16px;
+height:15px;
+}
+#lp-pom-image-189 .lp-pom-image-container img {
+width:16px;
+height:15px;
+}
+#lp-pom-image-190 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:19px;
+height:20px;
+}
+#lp-pom-image-190 .lp-pom-image-container img {
+width:19px;
+height:20px;
+}
+#lp-pom-image-191 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:26px;
+height:20px;
+}
+#lp-pom-image-191 .lp-pom-image-container img {
+width:26px;
+height:20px;
+}
+#lp-pom-image-492 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:151px;
+height:26px;
+}
+#lp-pom-image-492 .lp-pom-image-container img {
+width:151px;
+height:26px;
+}
+#lp-pom-button-1823:hover {
+background:rgba(40,58,151,1);
+box-shadow:none;
+color:#ffffff;
+}
+#lp-pom-button-1823:active {
+background:rgba(40,58,151,1);
+box-shadow:none;
+color:#ffffff;
+}
+#lp-pom-button-1823 .label {
+margin-top:-10px;
+}
+#container_email {
+position:absolute;
+top:0px;
+left:0px;
+width:280px;
+height:49px;
+}
+.lp-pom-form-field .ub-input-item.single.form_elem_email {
+position:absolute;
+top:0px;
+left:0px;
+width:280px;
+height:49px;
+}
+#campaign {
+position:absolute;
+top:0px;
+left:0px;
+width:0px;
+height:0px;
+}
+#lp-pom-button-1885:hover {
+background:rgba(228,144,68,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-1885:active {
+background:rgba(216,129,57,1);
+box-shadow:none;
+color:#000000;
+}
+#lp-pom-button-1885 .label {
+margin-top:-10px;
+}
+#lp-pom-image-1998 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:150px;
+height:23px;
+}
+#lp-pom-image-1998 .lp-pom-image-container img {
+width:150px;
+height:23px;
+}
+#lp-pom-image-2124 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:126px;
+height:19px;
+}
+#lp-pom-image-2124 .lp-pom-image-container img {
+width:126px;
+height:19px;
+}
+#lp-pom-button-2125:hover {
+background:rgba(40,58,151,1);
+box-shadow:none;
+color:#ffffff;
+}
+#lp-pom-button-2125:active {
+background:rgba(40,58,151,1);
+box-shadow:none;
+color:#ffffff;
+}
+#lp-pom-button-2125 .label {
+margin-top:-9px;
+}
+#lp-pom-image-2208 .lp-pom-image-container {
+border-style:none;
+border-radius:0px;
+width:134px;
+height:23px;
+}
+#lp-pom-image-2208 .lp-pom-image-container img {
+width:134px;
+height:23px;
+}
+#lp-pom-root-color-overlay {
+position:absolute;
+background:none;
+top:0;
+width:100%;
+height:4563px;
+min-height:100%;
+}
+#lp-pom-block-1997-color-overlay {
+position:absolute;
+background:none;
+height:67px;
+width:100%;;
+}
+#lp-pom-block-2123-color-overlay {
+position:absolute;
+background:none;
+height:54px;
+width:100%;;
+}
+#lp-pom-block-9-color-overlay {
+position:absolute;
+background:none;
+height:833px;
+width:100%;;
+}
+#lp-pom-block-1732-color-overlay {
+position:absolute;
+background:none;
+height:328px;
+width:100%;;
+}
+#lp-pom-block-2001-color-overlay {
+position:absolute;
+background:none;
+height:280px;
+width:100%;;
+}
+#lp-pom-block-1780-color-overlay {
+position:absolute;
+background:none;
+height:1313px;
+width:100%;;
+}
+#lp-pom-block-1041-color-overlay {
+position:absolute;
+background:none;
+height:425px;
+width:100%;;
+}
+#lp-pom-block-2003-color-overlay {
+position:absolute;
+background:none;
+height:623px;
+width:100%;;
+}
+#lp-pom-block-2002-color-overlay {
+position:absolute;
+background:none;
+height:894px;
+width:100%;;
+}
+#lp-pom-block-1820-color-overlay {
+position:absolute;
+background:none;
+height:354px;
+width:100%;;
+}
+#lp-pom-block-185-color-overlay {
+position:absolute;
+background:none;
+height:135px;
+width:100%;;
+}
+#lp-pom-box-1753-color-overlay {
+position:absolute;
+background:none;
+height:55px;
+width:224px;
+}
+#lp-pom-box-1763-color-overlay {
+position:absolute;
+background:none;
+height:55px;
+width:224px;
+}
+#lp-pom-box-1767-color-overlay {
+position:absolute;
+background:none;
+height:55px;
+width:224px;
+}
+#lp-pom-box-1882-color-overlay {
+position:absolute;
+background:none;
+height:183px;
+width:280px;
+}
+#lp-pom-box-1945-color-overlay {
+position:absolute;
+background:none;
+height:178px;
+width:224px;
+}
+#lp-pom-box-1946-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:100px;
+width:100px;
+}
+#lp-pom-box-1948-color-overlay {
+position:absolute;
+background:none;
+height:178px;
+width:224px;
+}
+#lp-pom-box-1949-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:100px;
+width:100px;
+}
+#lp-pom-box-1951-color-overlay {
+position:absolute;
+background:none;
+height:175px;
+width:224px;
+}
+#lp-pom-box-1952-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:100px;
+width:100px;
+}
+#lp-pom-box-2017-color-overlay {
+position:absolute;
+background:none;
+height:338px;
+width:280px;
+}
+#lp-pom-box-2019-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:242px;
+width:320px;
+}
+#lp-pom-box-2030-color-overlay {
+position:absolute;
+background:none;
+height:315px;
+width:280px;
+}
+#lp-pom-box-2053-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:306px;
+width:312px;
+}
+#lp-pom-box-2054-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:263px;
+width:260px;
+}
+#lp-pom-box-2151-color-overlay {
+position:absolute;
+background:none;
+height:26px;
+width:173px;
+}
+#lp-pom-box-2160-color-overlay {
+position:absolute;
+background:none;
+height:53px;
+width:320px;
+}
+#lp-pom-box-2183-color-overlay {
+position:absolute;
+background:none;
+height:225px;
+width:318px;
+}
+#lp-pom-box-2185-color-overlay {
+position:absolute;
+background:none;
+height:219px;
+width:23px;
+}
+#lp-pom-box-2186-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2187-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2188-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2189-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2190-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2191-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2216-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:173px;
+width:291px;
+}
+#lp-pom-box-2241-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2242-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2243-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2244-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2245-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2246-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2247-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2248-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-box-2249-color-overlay {
+position:absolute;
+background:rgba(255,255,255,0);
+height:20px;
+width:20px;
+}
+#lp-pom-form-1884 {
+display:block;
+left:0px;
+top:67px;
+z-index:24;
+width:280px;
+height:0px;
+position:absolute;
+}
+#lp-pom-form-1884 .fields {
+margin:-9px;
+}
+#lp-pom-form-1884 .lp-pom-form-field {
+position:absolute;
+}
+#lp-pom-form-1884 .option {
+position:absolute;
+}
+#lp-pom-form-1884 .optionsList {
+position:absolute;
+}
+#lp-pom-form-1884 .lp-pom-form-field .single {
+height:49px;
+font-size:15px;
+line-height:15px;
+padding-left:16px;
+padding-right:16px;
+flex:1;
+}
+#lp-pom-form-1884 .lp-pom-form-field select {
+height:48px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .form_elem_multi {
+padding-top:16px;
+padding-bottom:17px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .lp-form-label {
+font-family:Source Sans Pro;
+font-weight:400;
+font-size:14px;
+line-height:15px;
+color:#000000;
+display:block;
+margin-bottom:4px;
+width:auto;
+margin-right:0px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .lp-form-label .label-style {
+font-weight:bolder;
+font-style:inherit;
+}
+#lp-pom-form-1884 .lp-pom-form-field input[type=text], #lp-pom-form-1884 .lp-pom-form-field input[type=email], #lp-pom-form-1884 .lp-pom-form-field input[type=tel], #lp-pom-form-1884 .lp-pom-form-field textarea, #lp-pom-form-1884 .lp-pom-form-field select {
+border-style:none;
+}
+#lp-pom-form-1884 .lp-pom-form-field .opt-label {
+font-family:arial;
+font-weight:400;
+font-size:13px;
+color:#000;
+line-height:15px;
+}
+#lp-pom-form-1884 .lp-pom-form-field .opt-label .label-style {
+font-weight:inherit;
+font-style:inherit;
+}
+#lp-pom-form-1884 .lp-pom-form-field .text {
+background-color:#ffffff;
+color:#000000;
+border-radius:4px;
+}
+}
+@media only screen and (max-width: 600px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (max-width: 600px) and (min-resolution: 97dpi) {
+#lp-pom-block-9 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/21c21d24-docjen-mobile2_100000000000000000001o.jpg);
+}
+#lp-pom-block-1780 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/1e2b5bfc-guitar-stock-mobile_113e20y0xc20y030000028.png);
+}
+#lp-pom-box-2019 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/c47c9c5c-asset-21-4x_10hs0dv0hs0dg000006028.png);
+}
+#lp-pom-box-2053 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/fbb65462-asset-17-4x_10rb0h00hc0h004y000028.png);
+}
+#lp-pom-box-2054 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/6ee2b100-asset-16-4x_10lx0em0eg0em03q000028.png);
+}
+#lp-pom-box-2186 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2187 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2188 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2189 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2190 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2191 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2216 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/b64e2386-99597b25-f7c6-40b8-bbd2-2608eee804aa-memberships-copy_100000009v05v00000m028.png);
+}
+#lp-pom-box-2241 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2242 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2243 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2244 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2245 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2246 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2247 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2248 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+#lp-pom-box-2249 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_1014014000000000000028.png);
+}
+}
+@media only screen and (max-width: 600px) and (-webkit-min-device-pixel-ratio: 2.1), only screen and (max-width: 600px) and (min-resolution: 193dpi) {
+#lp-pom-block-1780 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/1e2b5bfc-guitar-stock-mobile_11n231f1e031f04i000028.png);
+}
+#lp-pom-box-2019 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/c47c9c5c-asset-21-4x_10qo0kt0qo0k6000009028.png);
+}
+#lp-pom-box-2053 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/fbb65462-asset-17-4x_114y0pi0q00pi07f000028.png);
+}
+#lp-pom-box-2054 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/6ee2b100-asset-16-4x_10wv0lx0lo0lx05l000028.png);
+}
+#lp-pom-box-2186 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2187 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2188 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2189 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2190 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2191 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2241 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2242 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2243 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2244 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2245 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2246 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2247 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2248 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+#lp-pom-box-2249 {
+background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.thinkific.com/start-now-free/courses/45aeae62-icon-check-mark-gold-129_101o01o000000000000028.png);
+}
+}
+
+

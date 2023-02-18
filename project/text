@@ -1,0 +1,122 @@
+#lp-pom-text-1757 {
+    display:block;
+    background:rgba(255,255,255,0);
+    border-style:none;
+    border-radius:0px;
+    left:11px;
+    top:10px;
+    z-index:10;
+    width:289px;
+    height:22px;
+    transform:scale(0.7);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.7);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+    }
+    #lp-pom-text-1758 {
+    display:block;
+    background:rgba(255,255,255,0);
+    border-style:none;
+    border-radius:0px;
+    left:-0.5px;
+    top:32px;
+    z-index:11;
+    width:250px;
+    height:52px;
+    transform:scale(0.9);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.9);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+    }
+    #lp-pom-box-1763 {
+    display:block;
+    background:rgba(255,255,255,0);
+    border-style:none;
+    border-radius:0px;
+    left:48px;
+    top:969px;
+    z-index:19;
+    width:224px;
+    height:55px;
+    position:absolute;
+    }
+    #lp-pom-text-1764 {
+    display:block;
+    background:rgba(255,255,255,0);
+    border-style:none;
+    border-radius:0px;
+    left:26px;
+    top:20px;
+    z-index:20;
+    width:246px;
+    height:22px;
+    transform:scale(0.7);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.7);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+    }
+    #lp-pom-text-1765 {
+    display:block;
+    background:rgba(255,255,255,0);
+    border-style:none;
+    border-radius:0px;
+    left:-16px;
+    top:42px;
+    z-index:21;
+    width:283px;
+    height:26px;
+    transform:scale(0.9);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.9);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+    }
+    #lp-pom-box-1767 {
+    display:block;
+    background:rgba(255,255,255,0);
+    border-style:none;
+    border-radius:0px;
+    left:48px;
+    top:1063px;
+    z-index:16;
+    width:224px;
+    height:55px;
+    position:absolute;
+    }
+    #lp-pom-text-1768 {
+        display:block;
+        background:rgba(255,255,255,0);
+        border-style:none;
+        border-radius:0px;
+        left:27.5px;
+        top:10px;
+        z-index:17;
+        width:242px;
+        height:22px;
+        transform:scale(0.7);
+        transform-origin:0 0;
+        -webkit-transform:scale(0.7);
+        -webkit-transform-origin:0 0;
+        position:absolute;
+        }
+        #lp-pom-text-1769 {
+        display:block;
+        background:rgba(255,255,255,0);
+        border-style:none;
+        border-radius:0px;
+        left:-21px;
+        top:32px;
+        z-index:18;
+        width:296px;
+        height:26px;
+        transform:scale(0.9);
+        transform-origin:0 0;
+        -webkit-transform:scale(0.9);
+        -webkit-transform-origin:0 0;
+        position:absolute;
+        }
+        
+    

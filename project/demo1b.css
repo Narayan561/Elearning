@@ -1,0 +1,153 @@
+
+#lp-pom-box-2160 {box-shadow:5px 5px 30px 0px rgba(0,0,0,0.1)}
+
+
+.earnings-calculator {
+   display: flex;
+ flex-direction: column;
+ font-family: 'Barlow';
+}
+.earnings-calculator__heading {
+   margin: 0;
+   color: #001526;
+   font-size: 36px;
+   font-weight: 500;
+   line-height: 2.5rem;
+ text-align: center
+}
+@media screen and (max-width: 1024px) {
+    .earnings-calculator__heading {
+      font-size: 26px;
+      line-height: 1.8rem;
+  }
+}
+.earnings-calculator__inputs {
+  padding: 40px 0 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 1024px){
+ .earnings-calculator__inputs {
+  padding: 40px 0 40px;
+      display: block;
+ }
+}
+
+.earnings-calculator__inputs-label {
+   font-size: 24px;
+   font-weight: 600;
+}
+@media screen and (max-width: 1024px) {
+   .earnings-calculator__inputs-label {
+       font-size: 40px;
+  }
+}
+.earnings-calculator__label {
+   display: flex;
+   flex-wrap: nowrap;
+   align-items: center;
+   width: 100%;
+   color: #484e57;
+}
+.earnings-calculator__label:first-of-type {
+   margin-right: 10px;
+}
+
+ @media screen and (max-width: 1024px){
+ .earnings-calculator__label:first-of-type {
+  margin-bottom: 20px
+ }
+}
+
+.earnings-calculator__unit {
+   display: inline-flex;
+   justify-content: flex-end;
+   flex: 0 1 auto;
+   min-width: 88px;
+   margin: 0 0 0 auto;
+   padding-left: 8px;
+   font-size: 16px;
+   line-height: 1;
+   text-transform: uppercase;
+}
+@media screen and (1024px) {
+   .earnings-calculator__unit {
+       font-size: 24px;
+       line-height: 28px;
+  }
+}
+.earnings-calculator__unit-symbol {
+   display: inline-block;
+   width: 26px;
+   padding-right: 16px;
+   font-size: 16px;
+}
+@media screen and (1024px) {
+   .earnings-calculator__unit-symbol {
+       padding-right: 40px;
+       font-size: 24px;
+  }
+}
+.earnings-calculator__unit-symbol--large {
+   font-size: 26px;
+   font-weight: 400;
+}
+@media screen and (1024px) {
+   .earnings-calculator__unit-symbol--large {
+       font-size: 40px;
+  }
+}
+.earnings-calculator__input {
+   display: inline-flex;
+   flex: 1 1 auto;
+   width: 100%;
+   min-width: 0;
+   padding: 8px;
+   border: 1px solid #d6d6d6;
+   border-radius: 4px;
+   color: #333237;
+   font-size: 24px;
+   font-weight: 600;
+   line-height: normal;
+   text-align: center;
+}
+@media screen and (1024px) {
+   .earnings-calculator__input {
+       max-width: 260px;
+       font-size: 40px;
+  }
+}
+.earnings-calculator__result {
+   color: #333237;
+   word-break: break-all;
+}
+.earnings-calculator__result-wrapper {
+   border-top: 8px solid #e6aa67;
+}
+.earnings-calculator__result-label {
+ display: inline-block;
+   margin-bottom: 0;
+   padding-top: 16px;
+   font-size: 36px;
+   line-height: 28px;
+   font-weight: 500;
+}
+@media screen and (max-width: 1024px) {
+   .earnings-calculator__result-label {
+       display: inline-block;
+       padding-top: 24px;
+       font-size: 28px;
+       line-height: 52px;
+  }
+}
+.earnings-calculator__result-unit-symbol {
+   display: inline-block;
+   margin-right: 8px;
+}
+.earnings-calculator__result-disclaimer {
+   display: inline-block;
+ margin-right: 10px;
+   color: #333237;
+}
+
